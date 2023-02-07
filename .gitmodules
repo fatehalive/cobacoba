@@ -4,3 +4,6 @@
 [submodule "coba_reactjs_custom-webpack"]
 	path = coba_reactjs_custom-webpack
 	url = git@github.com:fatehalive/coba_reactjs_custom-webpack.git
+[submodule "coba_reactjs_ejected"]
+	path = coba_reactjs_ejected
+	url = git@github.com:fatehalive/coba_reactjs_ejected.git
