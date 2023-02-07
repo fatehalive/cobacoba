@@ -1,0 +1,3 @@
+[submodule "coba_reactjs_jsconfig"]
+	path = coba_reactjs_jsconfig
+	url = git@github.com:fatehalive/coba_reactjs_jsconfig.git
