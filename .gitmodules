@@ -1,3 +1,6 @@
 [submodule "coba_reactjs_jsconfig"]
 	path = coba_reactjs_jsconfig
 	url = git@github.com:fatehalive/coba_reactjs_jsconfig.git
+[submodule "coba_reactjs_custom-webpack"]
+	path = coba_reactjs_custom-webpack
+	url = git@github.com:fatehalive/coba_reactjs_custom-webpack.git
