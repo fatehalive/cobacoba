@@ -7,3 +7,6 @@
 [submodule "coba_reactjs_ejected"]
 	path = coba_reactjs_ejected
 	url = git@github.com:fatehalive/coba_reactjs_ejected.git
+[submodule "learn_github_actions"]
+	path = learn_github_actions
+	url = git@github.com:fatehalive/learn-github-actions.git
